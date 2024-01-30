@@ -5,7 +5,7 @@
   "keywords": ["telegram", "bot", "client"],
   "license": "MIT",
   "require": {
-    "php": "^8.1.2",
+    "php": "^7.1",
     "formapro/values": "^0.5.1",
     "guzzlehttp/guzzle": "^6.3"
   },
